@@ -64,16 +64,15 @@ DROP TABLE world.country;
 
 ```
 
-🔹 Excluir Banco de Dados
+### 🔹 Excluir Banco de Dados
 ```bash
 DROP DATABASE world;
 SHOW DATABASES;
 
 ```
 
-✅ Conclusão
-Com este guia você pode:
-
+## ✅ Conclusão
+### Com este guia você pode:
 Criar bancos e tabelas(CREATE)
 
 Consultar bancos e tabelas(SHOW)
@@ -84,4 +83,7 @@ Excluir tabelas e bancos(DROP)
 
 
 ---
+
+## ✍️ Autor: José Ivson Silva de Mendonça
+### 📌 Repositório criado para estudos práticos em AWS + MySQL.
 
